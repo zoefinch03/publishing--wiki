@@ -1,0 +1,17 @@
+nav{
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    width: 50%;
+
+}
+a {
+    color: red;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+a:hover{
+    background-color: blue;
+}
